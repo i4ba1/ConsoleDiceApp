@@ -1,0 +1,16 @@
+1. Aplikasi ini bisa memasukkan pesanan-pesanan makanan pelanggan
+2. Aplikasi ini bisa mengeluarkan struk pembelian
+3. Aplikasi ini bisa mengeluarkan laporan penghasilan mingguan dan bulanan
+4. Aplikasi ini bisa mengeluarkan laporan stok
+5. Aplikasi ini bisa melakukan order menu melalui app nya
+6. Aplikasi ini bisa melakukan booking table untuk dine in
+7. Aplikasi ini bisa melakukan order online untuk take away
+8. Aplikasi ini bisa melakukan pembayaran via kasir(pos app) atau langsung dari app restaurant ketika order dengan integrasi dengan virtual account/ovo/gopay dll
+
+Technology yang digunakan
+Mobile: Android Native, Java/Kotlin
+iOS: Swift
+Backend: Java, Spring boot, AWS RDS PostgreSQL, Hibernate/JPA, AWS APi Gateway, AWS EC2, AWS MQ
+
+Teknologi di atas di pilih karena design yang akan dibuat untuk rumah makan xyz adalah dengan microservices dan memang yang popular digunakan saat ini untuk membangun arsitektur microservices dan distributed system
+
